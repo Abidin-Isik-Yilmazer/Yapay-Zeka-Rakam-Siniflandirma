@@ -41,8 +41,8 @@ Derin öğrenme modeli, ardışık (Sequential) katmanlardan oluşan özellik ç
 
 1. Depoyu Klonlayın:
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/el-yazisi-rakam-tanima.git
-cd el-yazisi-rakam-tanima
+git clone https://github.com/Abidin-Isik-Yilmazer/Yapay-Zeka-Rakam-Siniflandirma.git
+cd Yapay-Zeka-Rakam-Siniflandirma
 ```
 
 2. Gerekli Kütüphaneleri Yükleyin:
